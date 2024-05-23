@@ -1,21 +1,21 @@
-## Cat-Photo-App
+# Cat-Photo-App
 This repository contains the HTML code for a simple web page called Cat-Photo-App.
 
-## Description
+# Description
 Cat-Photo-App is a basic web page showcasing various sections related to cats, including cat photos, cat lists, and a cat form. It is intended for learning purposes and demonstrates the use of HTML elements to structure content and create interactive forms.
 
-## Features
-# Cat Photos
+# Features
+## Cat Photos
 * Displays a section with a title "Cat Photos".
 * Includes a link to an external website containing cat photos.
 * Displays an image of a cute orange cat lying on its back.
 
-# Cat Lists
+## Cat Lists
 * Displays a section with a title "Cat Lists".
 * Lists things that cats love and hate using unordered and ordered lists respectively.
 * Includes images related to the listed items along with captions.
 
-# Cat Form
+## Cat Form
 * Displays a section with a title "Cat Form".
 * Contains a form for submitting cat photos.
 * Includes two fieldsets:
